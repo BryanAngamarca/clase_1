@@ -1,5 +1,5 @@
-import 'package:clase_1/adduserscreen.dart';
-import 'package:clase_1/main.dart';
+import 'adduserscreen.dart';
+import 'main.dart';
 import 'package:flutter/material.dart';
 
 void main() {
